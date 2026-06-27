@@ -45,29 +45,6 @@ data-encryption-project/
 
 ---
 
-## Installation
-
-### Clone the repository
-
-```bash
-git clone <repository-link>
-cd data-encryption-project
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-python main.py
-```
-
----
-
 ## Usage
 
 1. Launch the application.
